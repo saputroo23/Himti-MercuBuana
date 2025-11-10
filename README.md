@@ -112,7 +112,8 @@ We welcome contributions from anyone who wishes to help improve this website. To
 ## 👨‍💻 **Development Team**
 
 - **UI/UX Designer**: Bimo Saputro
-- **Frontend Developer**: Barito Surya Ramadhani, Husein Yarid Zidane
+- **Frontend Developer**: Barito Surya Ramadhani, Husein Yarid Zidane, Bagas Indra Lesmana, Muhammad Rizky Hibatullah, Jericho Rayhan Maulana, Aknaf Saputra, Vicky Ardiansyah
+- **Backend Developer**: Bagas Indra Lesmana, Muhammad Rizky Hibatullah
 
 ## 📝 **License**
 
